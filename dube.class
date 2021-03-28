@@ -1,6 +1,7 @@
 class dube{
 	      public static void main(String[] args){
 		 System.out.println("This is the first program here");
+		 System.out.println("Second line added now to program");
 }
 }
 
